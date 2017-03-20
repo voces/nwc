@@ -1,0 +1,25 @@
+{
+	"extends": "mdcs",
+	"parserOptions": {
+		"ecmaVersion": 7
+	},
+	"rules": {
+		"comma-dangle": [
+			"error",
+			"never"
+		],
+		"quotes": [
+			"error",
+			"double"
+		],
+		"no-multiple-empty-lines": [
+			"error",
+			{
+				"max": 1
+			}
+		],
+		"strict": [
+			"error"
+		]
+	}
+}
