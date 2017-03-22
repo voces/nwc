@@ -1,15 +1,15 @@
 {
-  "name": "nwc",
+  "name": "@voces/state",
   "version": "1.0.0",
   "description": "",
-  "main": "Entity.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Robert Coe",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^3.18.0",
-    "eslint-config-mdcs": "^4.2.2"
-  }
+   "eslint": "^3.14.0",
+   "eslint-config-mdcs": "^4.2.2"
+}
 }
